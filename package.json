@@ -1,7 +1,6 @@
 {
   "name": "@nexckycort/cra-template",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
   "main": "template.json",
   "publishConfig": {
     "access": "public"
