@@ -1,0 +1,33 @@
+{
+  "name": "@nexckycort/cra-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexckycort/cra-template.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "eslint",
+    "stylelint",
+    "prettier",
+    "husky",
+    "template",
+    "typescript"
+  ],
+  "author": "Nestor Cortina <nexckycort@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nexckycort/cra-template/issues"
+  },
+  "homepage": "https://github.com/nexckycort/cra-template#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
